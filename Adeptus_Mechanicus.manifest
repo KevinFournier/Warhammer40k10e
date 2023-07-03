@@ -7470,8 +7470,7 @@
             "value": 0,
             "visibility": "hidden"
           }
-        },
-        "text": "ERROR: this unit’s wargear couldn’t be automatically applied and requires custom work.\n\nThe Pteraxii Sterylizor Alpha model is equipped with: flechette blaster; Pteraxii talons; taser goad. Every Pteraxii Sterylizor model is equipped with: phosphor torch; Pteraxii talons.\n\nNone"
+        }
       },
       "Unit§Serberys Raiders": {
         "allowed": {
